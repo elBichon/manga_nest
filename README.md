@@ -1,2 +1,2 @@
 # manga_nest
-create a manga text based searcgh engine
+create a web based manga text based search engine 
