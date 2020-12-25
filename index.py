@@ -10,7 +10,6 @@ import gensim
 from gensim.models import Word2Vec
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 import nltk
 from nltk.stem.porter import *
 
